@@ -3,9 +3,10 @@ div{border:solid 3px #f00div{margin:0px; padding:0px; background:yellow;};
   padding:5px; 
   margin:5px;
   background-color: blue;}
-#b1{background-color: yellow;}
-#b2{background-color: blue;}
-#b3{background-color: grey;martin:5px;width:25%;float:left;}
-#b4{background-color: grey;martin:5px;width:50%;float:left;}
-#b5{background-color: grey;martin:5px;width:13%;float:left;}
-#b6{background-color: blue;clear:both;}
+#b1{background:yellow;}
+#b2{background:skyblue;}
+#b6{background:skyblue;}
+#b3{width: 20%; float:left}
+#b4{width: 53%; float:left}
+#b5{width: 9%; float:left}
+#b6{clear:both;}
