@@ -1,13 +1,12 @@
 
-div{border:solid 3px #f00}; 
-  padding:5px; 
-  margin:5px;
-  table,tr,td{border:solid 3px skyblue;}
+margin:1%; background:grey;}
+body{margin:0px;}
+table,tr,td{border:solid 3px skyblue;}
 div{margin:0px; padding:0px; background:yellow;}
 #b1{background:yellow;}
 #b2{background:skyblue;}
 #b6{background:skyblue;}
-#b3{background-color: #999;martin:5px;width:25%;float:left;}
-#b4{background-color: #999;martin:5px;width:50%;float:left;}
-#b5{background-color: #999;martin:5px;width:13%;float:left;}
+#b3{width: 20%; float:left}
+#b4{width: 53%; float:left}
+#b5{width: 9%; float:left}
 #b6{clear:both;}
